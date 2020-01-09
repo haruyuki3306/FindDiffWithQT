@@ -1,0 +1,1 @@
+D:/workspaces/programs/win32/forQT/games/findDiff/findDiff/Resources/resources.txt3,3,3,54,33286,2,2,69,36159,102,102,38,34275,119,119,53,33263,248,248,50,18
